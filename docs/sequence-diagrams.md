@@ -365,14 +365,3 @@ An admin can:
 * Review reported or suspicious content
 * Take appropriate actions
 
----
-
-## Important Business Rule
-
-A Lost Report does not have to be created before a Found Report.
-
-The matching process can be triggered whenever either a Lost Report or a Found Report is created or updated.
-
-
-وبعد ما تحطي الملف وتعملي commit، الخطوة اللي بعدها مباشرة هي **ERD**؛ لأننا من الـ Sequence Diagrams نقدر نستخرج الـ Entities والعلاقات بينهم بدل ما نخمنهم.
-```
